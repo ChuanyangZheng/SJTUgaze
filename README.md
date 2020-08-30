@@ -19,5 +19,7 @@ SJTUgaze gaze dataset contains 127495 face images and corresponding ground-truth
 * SJTUgaze covers wider head pose and gaze direction range. We place four GoPro cameras locating left, right, above and down the television screen to record real-time videos when subjects watch stimuli 140 ∼ 175𝑐𝑚 away from TV screen to produce various head poses as much as possible. In this way, SJTUgaze can get plenty of face images with different head poses. 
 * Based on four camera views, SJTUgaze is a multiview gaze dataset, which makes up for the current scarce multiview gaze data which can be used for multiview gaze estimation research. 
 * In addition, in the data collection process of SJTUgaze, subjects are allowed to move their heads freely, which is more realistic and natural. SJTUgaze also has additional eye movement event category labels, which can play a role in related researches beyond gaze estimation.
+here are some gaze samples:
+![gaze vector example](./assets/gaze_vector.jpg)
 ## File Structure
-![]()
+![gaze vector example](./assets/file_structure.jpg)
